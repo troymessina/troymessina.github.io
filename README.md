@@ -1,4 +1,4 @@
-# Welcome to Troy Messina's Github pages
+# Welcome to my Github pages
 
 ## Pages I've published
 http://troymessina.github.io/simulations
